@@ -10,13 +10,6 @@ a guide to install gd and geode on a school windows computer
 - GD v2.208 or above
 - 7Zip (to unzip gd file)
 
-## Features: 
-Random Mods 
-Texture Packs 
-Hack GUI's 
-Music Mods 
-Online Mods 
-
 ## Notes for installing geode: 
 - Have to have v2.208 of Geometry Dash or above to work. 
 - If you have v2.207 or below, download a different version of geode. 
