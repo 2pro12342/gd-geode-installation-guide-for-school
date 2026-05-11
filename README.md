@@ -58,7 +58,7 @@ Fix 4: Microsoft Edge thinks it's unsafe because what happened to geode recently
 15. Open Geometry Dash. 
 
 ## Notes: 
-- If asks for network access, click "Cancel" or "No". 
+- If asks for network access, click "Cancel" or "No". (you won't have access to online levels, but you can build levels or play main levels)
 - If doesn't put you in the game when opened, click the opened app at the bottom (your desktop toolbar). 
 - To pin GD, open GD and right click, then click "Pin to Taskbar". 
 
