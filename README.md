@@ -5,9 +5,10 @@ a guide to install gd and geode on a school windows computer
 [v2.2081](https://gofile.io/d/eI1AP4) 
 
 ## Requirements: 
-Windows Computer (School or Home) 
-WiFi Connection 
-GD v2.208 or above 
+- Windows Computer (School or Home) 
+- WiFi Connection 
+- GD v2.208 or above
+- 7Zip (to unzip gd file)
 
 ## Features: 
 Random Mods 
