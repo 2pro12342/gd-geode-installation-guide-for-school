@@ -22,19 +22,19 @@ Online Mods
 
 ## Mod/Game Bugs & Fixes (Not just for geode but also for GD): 
 ### Bug 1: How do i fix the bug when updating a mod and relaunching gives me an error?
-### Fix 1: Delete the mod, relaunch, Download mod again, and relaunch. Don't update mods if you get an error. 
+Fix 1: Delete the mod, relaunch, Download mod again, and relaunch. Don't update mods if you get an error. 
 
 ### Bug 2: How do I fix the lag so it isn't so laggy? 
-### Fix 2: In settings cog, 
+Fix 2: In settings cog, 
 1: Click "Options" button and go to the "Performance" tab  
 or 
 2: Click "Graphics" button, then click the "Advanced" button, then enable "Unlock FPS" and set it to a high number like 240. 
 
 ### Bug 3: How do I quick exit the game without closing the game? 
-### Fix 3: Click the Windows key. 
+Fix 3: Click the Windows key. 
 
 ### Bug 4: I can't install because it says "unsafe to install". How do I fix that? 
-### Fix 4: Microsoft Edge thinks it's unsafe because what happened to geode recently. Use a different browser (recommended browser: Google Chrome or Brave). 
+Fix 4: Microsoft Edge thinks it's unsafe because what happened to geode recently. Use a different browser (recommended browser: Google Chrome or Brave). 
 
 ## Download & Run Geode: 
 1. Click this ["Instant Install"](https://github.com/geode-sdk/geode/releases/download/v5.7.1/geode-installer-v5.7.1-win.exe) (if says "Network Error", keep on clicking resume until installed) 
