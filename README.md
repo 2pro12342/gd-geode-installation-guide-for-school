@@ -30,6 +30,9 @@ Fix 3: Click the Windows key.
 ### Bug 4: I can't install because it says "unsafe to install". How do I fix that? 
 Fix 4: Microsoft Edge thinks it's unsafe because what happened to geode recently. Use a different browser (recommended browser: Google Chrome or Brave). 
 
+### Bug 5: How do I view online levels on a windows school computer? 
+Fix 5: Use that one geode mod to transfer online levels onto your computer. Things that doesn't work: USB's, account system, and basically anything that is online. 
+
 ## Download & Run Geode: 
 1. Click this ["Instant Install"](https://github.com/geode-sdk/geode/releases/download/v5.7.1/geode-installer-v5.7.1-win.exe) (if says "Network Error", keep on clicking resume until installed) 
 2. When downloaded, open it. 
@@ -52,10 +55,10 @@ Fix 4: Microsoft Edge thinks it's unsafe because what happened to geode recently
 15. Open Geometry Dash. 
 
 ## Notes: 
-- If asks for network access, click "Cancel" or "No". (you won't have access to online levels, but you can build levels or play main levels)
+- If asks for network access, click "Cancel" or "No". (you won't have access to online levels, but you can build levels or play main levels) (Only if you have a school computer, but if you have home computer; click "Yes").
 - If doesn't put you in the game when opened, click the opened app at the bottom (your desktop toolbar). 
 - To pin GD, open GD and right click, then click "Pin to Taskbar". 
 
 ## Credits: 
-2pro12342 | Guide Maker 
-SteamRIP | GD Installation File
+- 2pro12342 | Guide Maker 
+- SteamRIP | GD Installation File
